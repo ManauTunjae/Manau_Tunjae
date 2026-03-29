@@ -1,4 +1,4 @@
-# Välkommen! / Hi there! 👋
+<h1 align="center">Välkommen! / Hi there! 👋</h1>
 
 ## 🇸🇪 Om mig (Svenska)
 Jag studerar just nu till **Webbutvecklare Fullstack Open Source** på **Nackademin**. Jag ska gå på LIA i November för 24 veckor och Jag kommer ta examen i maj 2027. Jag brinner för att skapa effektiva och användarvänliga webblösningar med öppna teknologier.
