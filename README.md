@@ -45,7 +45,7 @@ I am a **Fullstack Open Source Web Development** student at **Nackademin** in St
 ### GitHub Status & Activity 📈
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManauTunjae&show_icons=true&theme=radical" alt="Manau's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManauTunjae&show_icons=true&theme=radical&hide_border=false" alt="Manau's Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManauTunjae&theme=radical" alt="Manau's Streak" />
 </p>
