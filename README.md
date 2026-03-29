@@ -38,9 +38,14 @@ I am a **Fullstack Open Source Web Development** student at **Nackademin** in St
 
 #### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### GitHub Stats 📊
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ManauTunjae&show_icons=true&theme=radical)
+### GitHub Status & Activity 📈
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManauTunjae&show_icons=true&theme=radical" alt="Manau's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManauTunjae&theme=radical" alt="Manau's Streak" />
+</p>
