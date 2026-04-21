@@ -11,14 +11,3 @@ I am a **Fullstack Open Source Web Development** student at **Nackademin** in St
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/manau-tunjae-7125b730a/]
 
 ---
-
-### GitHub Status & Activity 📈
-
-<p align="center" >
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManauTunjae&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManauTunjae&layout=compact&theme=radical" alt="Top Languages" />
-
-</p>
